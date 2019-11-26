@@ -2,5 +2,4 @@ Question 1 (worth 2 points) [due in 149 min]:
     Assume you're on a Unix machine in the directory '/home/me/projects/jeopardy'. 
 Inside this directory is a standard 'src/main/java' directory structure with a corresponding package structure to match. There is also a library you depend upon named 'gauva-1.0.jar' inside directory '/home/me/libraries'. 
  How would you compile a class named AlexTrebek with package com.jeopardy.people which imports a class named Player (within package com.jeopardy).  The class Player imports a class from the gauva-1.0.jar.  You should only use one call to javac in your answer.
-
-
+Assuming Assumed yourself yours
