@@ -14,3 +14,17 @@
 
 现在可以看到数据库中stemmword和stoptype 已经有了变化
 
+# 12.6 Update - Word2Vec.py Added
+First, install all the following dependent modules using pip3:
+numpy
+gensim
+scipy
+spatial
+
+In command line, run
+
+$ python3 word2Vec.py
+
+The similarity of testfile1 and testfile2 should be printed.
+
+You can change testfile1/testfile2 under './txtfiles' to see different results. 
